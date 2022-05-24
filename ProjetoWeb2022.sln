@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoWeb2022", "ProjetoWeb2022\ProjetoWeb2022.csproj", "{E6935304-C12E-4BE4-B45E-87623CC2E95B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{94DF72F9-C83F-461F-BCE9-4C078A11FF7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6935304-C12E-4BE4-B45E-87623CC2E95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6935304-C12E-4BE4-B45E-87623CC2E95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6935304-C12E-4BE4-B45E-87623CC2E95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6935304-C12E-4BE4-B45E-87623CC2E95B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DF72F9-C83F-461F-BCE9-4C078A11FF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DF72F9-C83F-461F-BCE9-4C078A11FF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DF72F9-C83F-461F-BCE9-4C078A11FF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DF72F9-C83F-461F-BCE9-4C078A11FF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FACF3AF0-8AB8-48F5-9F24-20DEBB88651B}
+	EndGlobalSection
+EndGlobal

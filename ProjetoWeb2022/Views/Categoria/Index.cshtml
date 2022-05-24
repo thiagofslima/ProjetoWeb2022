@@ -1,0 +1,14 @@
+﻿@model IEnumerable<ProjetoWeb2022.Models.CategoriaModel>
+
+
+<table class="table">
+    <thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.descricao</td>
+            </tr>
+        }
+    </thead>
+</table>
